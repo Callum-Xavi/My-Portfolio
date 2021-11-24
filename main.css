@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+/******* ELEMENT SELECTORS *******/
+
+p {
+  font-family: 'Montserrat', serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 3.5em;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.17em;
+}
+
+hr {
+width: 80%;
+height: 8px;
+margin-left: auto;
+margin-right: auto;
+background-color:#FFFFFF;
+color:#FFFFFF;
+border: 0 none;
+margin-top: 100px;
+margin-bottom:100px;
+}
+
+/******* CLASS SELECTORS *******/
+
+.nav-link {
+  margin-right: 3rem;
+}
+
+.title {
+  text-align: center;
+}
+
+.section, .break-section {
+  background-color: #EEEEEE;
+}
+
+.about-me-content img {
+  border-radius: 50%;
+  height: 15rem;
+  width: 20rem;
+}
