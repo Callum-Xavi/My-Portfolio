@@ -33,6 +33,10 @@ h3 {
   text-align: center;
 }
 
+.main-styling {
+  background-color: #EEEEEE;
+}
+
 .section, .break-section {
   background-color: #EEEEEE;
 }
