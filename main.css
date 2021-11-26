@@ -23,15 +23,15 @@ h3 {
 }
 
 hr {
-width: 80%;
-height: 8px;
-margin-left: auto;
-margin-right: auto;
-background-color:#FFFFFF;
-color:#FFFFFF;
-border: 0 none;
-margin-top: 100px;
-margin-bottom:100px;
+  width: 80%;
+  height: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#FFFFFF;
+  color:#FFFFFF;
+  border: 0 none;
+  margin-top: 100px;
+  margin-bottom:100px;
 }
 
 /******* CLASS SELECTORS *******/
