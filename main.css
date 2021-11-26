@@ -1,24 +1,18 @@
 * {
   box-sizing: border-box;
+  font-family: 'Montserrat'
 }
 
 /******* ELEMENT SELECTORS *******/
 
-p {
-  font-family: 'Montserrat', serif;
-}
 
 h1 {
   font-family: 'Sacramento', cursive;
   font-size: 3.5em;
 }
 
-h2 {
-  font-family: 'Montserrat', sans-serif;
-}
 
 h3 {
-  font-family: 'Montserrat', sans-serif;
   font-size: 1.17em;
 }
 
